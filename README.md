@@ -1,9 +1,9 @@
-## 👋 Hi there, I'm Kevin!
+##  Hi there, I'm Kevin!
 
-I’m passionate about coding, data analytics, and building cool projects 🚀  
+I’m passionate about coding, data analytics, and building cool projects   
 Welcome to my profile — here’s what I work with:
 
-## 💻 Skills
+ # Skills
 <p align="center">
   <a href="https://en.cppreference.com/w/c" target="_blank" title="Learn more about C">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
