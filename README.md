@@ -40,9 +40,6 @@ Currently learning Machine Learning, Neural Networks, and advanced Python.
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  </a>
 </p>
 
 ## Connect
