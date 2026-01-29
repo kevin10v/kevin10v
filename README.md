@@ -15,39 +15,85 @@ Currently working on full-stack projects and learning Machine Learning, Neural N
 ## Tech Stack
 
 ### Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash,sql" />
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
 </p>
 
 ### Frameworks & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,docker,mysql,linux" />
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express.js" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+  <a href="https://www.vim.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vim" alt="Vim" />
+  </a>
 </p>
 
 ### Currently Learning
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws" />
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
+  </a>
 </p>
 
-## GitHub Stats
+## Featured Repositories
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin10v&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevin10v&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
-</div>
+- **[holbertonschool-higher_level_programming](https://github.com/kevin10v/holbertonschool-higher_level_programming)** - Python programming projects
+- **[holbertonschool-machine_learning](https://github.com/kevin10v/holbertonschool-machine_learning)** - Machine learning and neural networks
+- **[AirBnB_clone_v2](https://github.com/kevin10v/AirBnB_clone_v2)** - AirBnB clone project
+- **[football_statistics](https://github.com/kevin10v/football_statistics)** - Football statistics web application
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin10v&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+## Connect
 
-## Featured Projects
-
-<div align="center">
-
-[![Holberton Higher Level Programming](https://github-readme-stats.vercel.app/api/pin/?username=kevin10v&repo=holbertonschool-higher_level_programming&theme=dark&hide_border=true)](https://github.com/kevin10v/holbertonschool-higher_level_programming)
-[![AirBnB Clone](https://github-readme-stats.vercel.app/api/pin/?username=kevin10v&repo=AirBnB_clone_v2&theme=dark&hide_border=true)](https://github.com/kevin10v/AirBnB_clone_v2)
-
-</div>
+- Email: vokakevin@icloud.com
+- GitHub: [@kevin10v](https://github.com/kevin10v)
 
 ---
 
