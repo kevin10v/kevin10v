@@ -1,53 +1,77 @@
-# Hi there, I'm Kevin
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Holberton+School+Student;Always+Learning" alt="Typing SVG" />
-</div>
-
-## About Me
-
-Full-Stack Developer and Software Engineering student at Holberton School based in Albania. I build web applications and explore machine learning.
-
-Currently learning Machine Learning, Neural Networks, and advanced Python.
-
-## Tech Stack
-
+<h1 align="center">Kevin Voka</h1>
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=c" alt="C" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  </a>
+  Full-Stack Developer • Software Engineering Student at Holberton School
 </p>
 
-## Connect
-
-**Email:** vokakevin@icloud.com
+<p align="center">
+  Based in Albania • Focused on web development, backend systems, and continuous growth in machine learning
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevin10v&color=blue&style=flat" alt="Profile Views" />
-</div>
+## About Me
+
+I am a Full-Stack Developer and Software Engineering student at Holberton School, based in Albania. I enjoy building practical web applications, improving problem-solving skills, and working on projects that strengthen both frontend and backend development.
+
+My current focus is on deepening my knowledge of Python, JavaScript, Node.js, and software engineering best practices, while continuing to explore machine learning and neural networks.
+
+---
+
+## Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" alt="Languages" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Backend" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database" />
+</p>
+
+---
+
+## Featured Projects
+
+- **Portfolio Projects**  
+  A collection of academic and personal projects focused on software engineering fundamentals, web development, and backend logic.
+
+- **C Programming Projects**  
+  Built structured programs in C covering file handling, data structures, modular programming, and problem-solving.
+
+- **Machine Learning Practice**  
+  Exploring machine learning concepts, neural networks, and Python-based experimentation through hands-on learning projects.
+
+> Replace these with your best repositories and add direct links once you choose which projects you want to highlight.
+
+---
+
+## Currently Learning
+
+- Machine Learning
+- Neural Networks
+- Advanced Python
+- Backend development best practices
+
+---
+
+## Connect
+
+- **Email:** vokakevin@icloud.com
+- **GitHub:** https://github.com/kevinvoka
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevinvoka&color=blue&style=flat" alt="Profile Views" />
+</p>
