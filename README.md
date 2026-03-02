@@ -5,43 +5,34 @@
 </p>
 
 <p align="center">
-  Building practical web applications, strengthening backend skills, and exploring machine learning with a long-term engineering mindset.
+  I build practical applications, strengthen backend systems, and continuously grow through hands-on engineering and machine learning.
 </p>
 
 <p align="center">
   <a href="mailto:vokakevin@icloud.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/kevinvoka">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/kevinvoka" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Location-Albania-red?style=for-the-badge&logo=googlemaps" alt="Location" />
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-I am a Full-Stack Developer and Software Engineering student at Holberton School, based in Albania.  
-My focus is on building reliable applications, improving code quality, and growing through hands-on projects that combine problem-solving, backend logic, and modern web development.
+I am a **Full-Stack Developer** and **Software Engineering student at Holberton School**, based in Albania.
 
-I am currently expanding my skills in **Python**, **JavaScript**, **Node.js**, and **machine learning**, with a strong interest in writing software that is practical, maintainable, and scalable.
+My work is focused on building practical applications, improving backend logic, and developing strong software engineering habits through real implementation. I enjoy learning by building, solving problems with code, and continuously raising the quality of the projects I work on.
 
----
-
-##  Core Strengths
-
-- Full-stack development with a strong interest in backend systems
-- Solid programming foundation through hands-on C and C++ projects
-- Growing experience with Python for scripting, problem-solving, and machine learning
-- Comfortable learning through real implementation, not only theory
-- Focused on writing structured, clean, and maintainable code
+At the moment, I am strengthening my skills in **Python**, **JavaScript**, **Node.js**, and **machine learning**, with a long-term focus on becoming a well-rounded engineer.
 
 ---
 
-##  Tech Stack
+## Technical Stack
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -75,67 +66,73 @@ I am currently expanding my skills in **Python**, **JavaScript**, **Node.js**, a
 
 ---
 
-##  What I’m Focused On
+## Engineering Focus
 
-- Building stronger backend development skills
-- Creating practical and well-structured projects
-- Advancing in machine learning and neural networks
-- Improving software engineering habits and project quality
+- Building clean and practical full-stack projects
+- Strengthening backend development and application logic
+- Improving code structure, maintainability, and problem-solving
+- Expanding machine learning knowledge through hands-on practice
+- Growing through real implementation instead of theory alone
 
 ---
 
-##  Highlighted Work
+## Featured Areas
 
 <table>
   <tr>
-    <td width="50%">
-      <h3> C Programming Projects</h3>
-      <p>
-        Structured programming projects focused on file handling, memory management,
-        modular design, and problem-solving fundamentals.
+    <td width="33%" valign="top">
+      <h3 align="center">Backend Development</h3>
+      <p align="center">
+        Focused on application logic, structured code, and building systems that are reliable and maintainable.
       </p>
     </td>
-    <td width="50%">
-      <h3> Web Development Practice</h3>
-      <p>
-        Projects centered around frontend structure, backend logic, and building
-        applications with practical use and cleaner architecture.
+    <td width="33%" valign="top">
+      <h3 align="center">Software Engineering</h3>
+      <p align="center">
+        Developing strong foundations through practical projects, clean implementation, and continuous technical growth.
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3> Machine Learning Exploration</h3>
-      <p>
-        Hands-on learning through Python-based experiments, model practice,
-        and growing familiarity with ML workflows.
-      </p>
-    </td>
-    <td width="50%">
-      <h3> Continuous Growth</h3>
-      <p>
-        Constantly improving through implementation, deeper technical study,
-        and real project experience.
+    <td width="33%" valign="top">
+      <h3 align="center">Machine Learning</h3>
+      <p align="center">
+        Exploring models, neural networks, and Python-based experimentation to expand into intelligent systems.
       </p>
     </td>
   </tr>
 </table>
 
-> Once you choose your best repositories, replace these sections with direct project links and one-line impact descriptions.
+---
+
+## Current Goals
+
+- Advance in Python and backend engineering
+- Build stronger full-stack projects with better architecture
+- Deepen understanding of machine learning workflows
+- Create projects that reflect real-world engineering value
 
 ---
 
-##  Profile Overview
+## GitHub Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinvoka&color=0e75b6&style=flat" alt="Profile Views" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kevinvoka&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvoka&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kevinvoka&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-##  Connect With Me
+## Contact
 
-<p align="left">
-  <a href="mailto:vokakevin@icloud.com"><strong>Email</strong></a><br/>
-  <a href="https://github.com/kevinvoka"><strong>GitHub</strong></a>
+<p align="center">
+  <a href="mailto:vokakevin@icloud.com">Email</a> •
+  <a href="https://github.com/kevinvoka" target="_blank">GitHub</a> •
+  <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevinvoka&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
