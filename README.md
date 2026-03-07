@@ -1,27 +1,53 @@
-##  Hi there, I'm Kevin!
+# Hi there, I'm Kevin
 
- # Skills
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Holberton+School+Student;Always+Learning" alt="Typing SVG" />
+</div>
+
+## About Me
+
+Full-Stack Developer and Software Engineering student at Holberton School based in Albania. I build web applications and explore machine learning.
+
+Currently learning Machine Learning, Neural Networks, and advanced Python.
+
+## Tech Stack
+
 <p align="center">
-  <a href="https://en.cppreference.com/w/c" target="_blank" title="Learn more about C">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
   </a>
-  <a href="https://git-scm.com/doc" target="_blank" title="Learn more about Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="Learn more about JavaScript">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
-  <a href="https://docs.python.org/3/" target="_blank" title="Learn more about Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
-  <a href="https://code.visualstudio.com/docs" target="_blank" title="Learn more about VS Code">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
   </a>
-  <a href="https://helpx.adobe.com/support/photoshop.html" target="_blank" title="Learn more about Photoshop">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   </a>
-  <a href="https://helpx.adobe.com/support/illustrator.html" target="_blank" title="Learn more about Illustrator">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
 </p>
- 
+
+## Connect
+
+**Email:** vokakevin@icloud.com
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kevin10v&color=blue&style=flat" alt="Profile Views" />
+</div>
