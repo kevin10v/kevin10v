@@ -52,22 +52,10 @@ Right now I'm going deep on **Machine Learning** and **Neural Networks**, explor
 
 ---
 
-## GitHub Stats
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinvoka&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kevinvoka&theme=dark&hide_border=true&background=0D1117&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&sideLabels=8B949E&dates=8B949E&stroke=FF4444" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinvoka&bg_color=0d1117&color=FF4444&line=FF4444&point=ffffff&area=true&area_color=FF4444&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinvoka&bg_color=0d1117&color=FF4444&line=FF4444&point=ffffff&area=true&area_color=FF4444&hide_border=true&custom_title=Kevin%20Voka%20%E2%80%94%20Contribution%20Graph" />
 </div>
 
 ---
@@ -100,8 +88,8 @@ kevinvoka/learning-path
     <img src="https://img.shields.io/badge/vokakevin@icloud.com-0d1117?style=for-the-badge&logo=apple&logoColor=FF4444" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/kevinvoka">
-    <img src="https://img.shields.io/badge/kevinvoka-0d1117?style=for-the-badge&logo=github&logoColor=FF4444" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/kevin-voka-255112388">
+    <img src="https://img.shields.io/badge/Kevin%20Voka-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF4444" alt="LinkedIn" />
   </a>
 </p>
 
