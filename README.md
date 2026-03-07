@@ -1,102 +1,43 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1020,100:0D1117&height=200&section=header&text=Kevin%20Voka&fontSize=52&fontColor=FF4444&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Holberton%20School%20%E2%80%94%20Albania&descSize=17&descColor=8B949E&descAlignY=55&descAlign=50" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=FF4444&center=true&vCenter=true&width=640&lines=Building+things+that+matter.;Exploring+Machine+Learning+%26+Neural+Networks.;Writing+C+before+coffee+kicks+in.;Always+learning%2C+always+shipping." alt="Typing animation" />
-
+  <h1>Kevin Voka</h1>
+  <p>Full-Stack Developer &nbsp;·&nbsp; Holberton School &nbsp;·&nbsp; Albania 🇦🇱</p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=FF4444&center=true&vCenter=true&width=500&lines=Building+things+that+matter.;Exploring+Machine+Learning+%26+Neural+Networks.;Writing+C+before+coffee+kicks+in." alt="Typing" />
 </div>
 
 <br/>
 
----
+I'm a software engineering student building across the full stack — from low-level C to web applications and machine learning. I learn by building, breaking, and rebuilding until it clicks.
 
-## Who I Am
+Currently going deep on **Machine Learning**, **Neural Networks**, and advanced **Python**.
 
-I'm a **Full-Stack Software Engineering** student at **Holberton School** in Albania, building a solid foundation across the entire stack — from low-level systems in C to web applications and machine learning.
+<br/>
 
-I believe in learning by building. I don't just consume knowledge — I apply it, break it, and rebuild it until it clicks.
-
-Right now I'm going deep on **Machine Learning** and **Neural Networks**, exploring how intelligent systems learn from data. The intersection of mathematics, code, and intuition is what keeps me hooked.
-
----
-
-## Tech Stack
-
-**Languages**
+**Languages & Tools**
 
 <p>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://www.java.com"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /></a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,nodejs,mysql,git,linux,vscode" />
 </p>
 
-**Web & Backend**
+<br/>
 
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
-</p>
-
-**Tools & Environment**
-
-<p>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/kevinvoka"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-  <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
-</p>
-
----
-
-## Contribution Activity
+**Contribution Activity**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinvoka&bg_color=0d1117&color=FF4444&line=FF4444&point=ffffff&area=true&area_color=FF4444&hide_border=true&custom_title=Kevin%20Voka%20%E2%80%94%20Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinvoka&bg_color=0d1117&color=FF4444&line=FF4444&point=ffffff&area=true&area_color=FF4444&hide_border=true&custom_title=Kevin%20Voka%20%E2%80%94%20Contributions" />
 </div>
 
----
+<br/>
 
-## Currently Learning
+**Connect**
 
-```
-kevinvoka/learning-path
-│
-├── Machine Learning
-│   ├── Supervised & Unsupervised Learning
-│   ├── Neural Networks — built from scratch
-│   └── TensorFlow · Scikit-learn · Pandas
-│
-├── Advanced Python
-│   ├── NumPy · Matplotlib · SciPy
-│   └── Object-Oriented & Functional patterns
-│
-└── Systems Programming
-    ├── Memory management & pointers in C
-    └── Algorithms & data structures
-```
-
----
-
-## Let's Connect
-
-<p align="center">
+<p>
   <a href="mailto:vokakevin@icloud.com">
-    <img src="https://img.shields.io/badge/vokakevin@icloud.com-0d1117?style=for-the-badge&logo=apple&logoColor=FF4444" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-FF4444?style=flat-square&logo=apple&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/kevin-voka-255112388">
-    <img src="https://img.shields.io/badge/Kevin%20Voka-0d1117?style=for-the-badge&logo=linkedin&logoColor=FF4444" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF4444?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=kevinvoka&color=FF4444&style=flat-square&label=views" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinvoka&color=FF4444&style=flat-square&label=Profile+Views" alt="Profile views" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1020,100:0D1117&height=120&section=footer" />
-</div>
