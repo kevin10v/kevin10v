@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:0D1117&height=200&section=header&text=Kevin%20Voka&fontSize=52&fontColor=00D9FF&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Holberton%20School%20%E2%80%94%20Albania&descSize=17&descColor=8B949E&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1020,100:0D1117&height=200&section=header&text=Kevin%20Voka&fontSize=52&fontColor=FF4444&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Holberton%20School%20%E2%80%94%20Albania&descSize=17&descColor=8B949E&descAlignY=55&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=640&lines=Building+things+that+matter.;Exploring+Machine+Learning+%26+Neural+Networks.;Writing+C+before+coffee+kicks+in.;Always+learning%2C+always+shipping." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=FF4444&center=true&vCenter=true&width=640&lines=Building+things+that+matter.;Exploring+Machine+Learning+%26+Neural+Networks.;Writing+C+before+coffee+kicks+in.;Always+learning%2C+always+shipping." alt="Typing animation" />
 
 </div>
 
@@ -55,16 +55,19 @@ Right now I'm going deep on **Machine Learning** and **Neural Networks**, explor
 ## GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kevinvoka&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinvoka&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kevinvoka&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kevinvoka&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=8B949E&dates=8B949E" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinvoka&bg_color=0d1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kevinvoka&theme=dark&hide_border=true&background=0D1117&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&sideLabels=8B949E&dates=8B949E&stroke=FF4444" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinvoka&bg_color=0d1117&color=FF4444&line=FF4444&point=ffffff&area=true&area_color=FF4444&hide_border=true" />
 </div>
 
 ---
@@ -94,18 +97,18 @@ kevinvoka/learning-path
 
 <p align="center">
   <a href="mailto:vokakevin@icloud.com">
-    <img src="https://img.shields.io/badge/vokakevin@icloud.com-0d1117?style=for-the-badge&logo=apple&logoColor=00D9FF" alt="Email" />
+    <img src="https://img.shields.io/badge/vokakevin@icloud.com-0d1117?style=for-the-badge&logo=apple&logoColor=FF4444" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/kevinvoka">
-    <img src="https://img.shields.io/badge/kevinvoka-0d1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub" />
+    <img src="https://img.shields.io/badge/kevinvoka-0d1117?style=for-the-badge&logo=github&logoColor=FF4444" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevinvoka&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kevinvoka&color=FF4444&style=flat-square&label=Profile+Views" alt="Profile views" />
   <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1f35,100:0D1117&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1020,100:0D1117&height=120&section=footer" />
 </div>
